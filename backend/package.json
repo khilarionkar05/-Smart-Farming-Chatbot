@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cohere-ai": "^7.18.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "openai": "^5.15.0"
+  },
+  "description": ""
+}
